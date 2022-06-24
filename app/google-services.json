@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394837486936",
+    "project_id": "ramobile-8635e",
+    "storage_bucket": "ramobile-8635e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394837486936:android:675473924f0de16d17c92d",
+        "android_client_info": {
+          "package_name": "com.mobile4ra.a4ramobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394837486936-0hbadllga9usuidvs23bhgvr6b78bnd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tvIygxN9HFSGzrBVlvX3WptQS3wHTLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394837486936-0hbadllga9usuidvs23bhgvr6b78bnd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
